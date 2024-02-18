@@ -22,7 +22,12 @@ etc.
 I'm into coding. I'm into speelunking and tunneling. I like woodworking and metal working and concrete working and house
 building. I like to read, and write, and compose music, and dungeon master. I'm addicted to Youtube and Podcasts and 
 Kindle and Reddit. I have to set an alarm to go to bed, otherwise I'd find myself tinkering at 4:00am and getting no
-decent sleep for weeks at a time.
+decent sleep for weeks at a time. Once I spent an entire month building sawhorses.
+
+I have a 5HP 10" Grizzly table saw, I want a 12" one. I just bought a dual 48-core XEON workstation with 256Gb of RAM, 
+based on the Skylake platform, I want one with a newer processor. I want a metal lathe and mill. I want a dump truck
+and an excavator and a hundred acres in the Rockies where I can dig tunnels and underground chambers. I drink two
+pots of coffee each morning, I want to learn how to make the coffee taste better than burned sadness.
 
 Hoarding? I'm way past that! I have more beryllium (in the form of magnetrons) than the EPA would probably allow if they
 knew. I'm _inspired_, not repulsed, by The Radioactive Boyscout. I have a special way I shimmy through my piles and 
