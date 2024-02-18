@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "projects-forever"
+title: Projects Forever
 date: 2024-02-18 22:11
 comments: true
 categories: 
