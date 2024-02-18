@@ -26,6 +26,9 @@ task :new_post, :title do |t, args|
   mkdir_p "#{source_dir}/#{posts_dir}"
   args.with_defaults(:title => 'new-post')
   title = args.title
+  big_title = title.gsub('-', ' ').split.each do |e|
+    e.capitalize!
+  end.join(' ')  
   # YYYY-MO-DD-TITLE-OF-POST.markdown
   filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
   if File.exist?(filename)
@@ -35,7 +38,7 @@ task :new_post, :title do |t, args|
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "title: \"#{big_title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"
     post.puts "categories: "
