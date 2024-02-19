@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Stay Busy"
+date: 2024-02-19 22:07
+comments: true
+categories: work, personal
+exerpt_separator: <!--more-->
+---
+If you're working in cloud computing in 2024, you're probably working from home, having maybe a daily
+meeting with the team, feeling a bit disconnected with the company and it's core goals, but pretty
+confident that you play a critical role and you are somehow earning your salary. Or perhaps you're marking your time, cashing the checks, but wondering when they're
+<!--more-->
+
+gonna figure out how little you accomplish on a daily basis, how much dead weight you really are. If that's
+you, congrats for the honesty, but you gotta listen carefully to what I'm gonna say here, it's crucial.
+Watch this video for a primer:
+
+[youtube-getting-fired]
+
+Some takeaways from this experience: 
+
+* the people who are firing you don't know you, don't know how many peers you've befriended, wooed, done favors for, owe you favors, how many customers you have helped, how many veeps you think love you. They just have your name and are prepared to tell you you don't measure up.
+* your seniority may or may not have any relevance, but being there a short time won't matter. You haven't had enugh time to learn the job and show your unique skills? Too bad.
+* you better be prepared. One week your working your JIRA tasks, the next week you hear that everybody is getting HR calls and laid off.
+ 
+[youtube-getting-fired]: https://www.reddit.com/r/videos/comments/1aunsar/girl_records_herself_getting_laidoff_cloudflare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+<!-- see https://github.com/Shopify/liquid/wiki/Liquid-for-Designers for stuff 
+# H1
+## H2
+[I'm an inline-style link](https://www.google.com)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
+```javascript
+var s = 'JavaScript syntax highlighting';
+alert(s);
+```
+   * an unordered list item (note a newline is required before the list begins)
+   1. an ordered list item
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+-->
