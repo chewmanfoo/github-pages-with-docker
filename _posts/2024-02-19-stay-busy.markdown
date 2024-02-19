@@ -8,21 +8,41 @@ exerpt_separator: <!--more-->
 ---
 If you're working in cloud computing in 2024, you're probably working from home, having maybe a daily
 meeting with the team, feeling a bit disconnected with the company and it's core goals, but pretty
-confident that you play a critical role and you are somehow earning your salary. Or perhaps you're marking your time, cashing the checks, but wondering when they're
+confident that you play a critical role and you are _somehow earning_ your salary. Or perhaps you're 
+marking your time, cashing the checks, but wondering when they're gonna figure out how little you 
+accomplish on a daily basis, how much dead weight you really are. If that's you, congrats for the 
+honesty, but you gotta listen carefully to what I'm gonna say here, it's crucial.
 <!--more-->
 
-gonna figure out how little you accomplish on a daily basis, how much dead weight you really are. If that's
-you, congrats for the honesty, but you gotta listen carefully to what I'm gonna say here, it's crucial.
 Watch this video for a primer:
 
-[youtube-getting-fired]
+[YouTube layoff captured in film] [youtube-getting-fired]
 
 Some takeaways from this experience: 
 
-* the people who are firing you don't know you, don't know how many peers you've befriended, wooed, done favors for, owe you favors, how many customers you have helped, how many veeps you think love you. They just have your name and are prepared to tell you you don't measure up.
+* the people who are firing you don't know you, don't know how many peers you've befriended, wooed, done favors for, owe you favors, how many customers you have helped, how many veeps _you think_ love you. They just have your name and a script intended to communicate to you that you don't measure up.
 * your seniority may or may not have any relevance, but being there a short time won't matter. You haven't had enugh time to learn the job and show your unique skills? Too bad.
 * you better be prepared. One week your working your JIRA tasks, the next week you hear that everybody is getting HR calls and laid off.
- 
+
+I've never been laid off or fired. I've always lept from one tree to another like that old iPhone game Doodle Jump, 
+stasis for years, then sudden actrion, then stasis again. I've always managed to gain at least 20% in increases in 
+compensation as I have moved, which has led to my current position where, were I to be let go now, my family would
+_suffer_. I've forgotten how to live on one income. Its been a long time since I had to control my appetites to make
+ends meet. I'm being painfully honest here.
+
+But that being said, I know I will survive. That is the First Pillar in Tech Layoffs Land. You jmust retain confidense 
+in your core skills, because those core skills are marketable.  If you're a COBOL programmer, _getthefuckouttahere_, OR
+get into legacy mergers and conversions. COBOL was a hot commodity 24 years ago, and you might still be able to find
+an old VAX system needing maintenance. But chances, are you have some coding skills, or you know how to do database
+normalization and sql queries, or you know JavaScript. Your skills don't suck. Don't freak out.
+
+But having skills is not enough. Potential employers need to be made aware of those skills somehow. So, keep that
+Resume up to date. You need to review that document every quarter, making sure new things you learned in the past
+months are in the skill section. You need to keep a list of skills and accomplishments ready for your yearly
+performance review anyway, so you might as well keep it in your Resume.
+
+
+
 [youtube-getting-fired]: https://www.reddit.com/r/videos/comments/1aunsar/girl_records_herself_getting_laidoff_cloudflare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
 <!-- see https://github.com/Shopify/liquid/wiki/Liquid-for-Designers for stuff 
