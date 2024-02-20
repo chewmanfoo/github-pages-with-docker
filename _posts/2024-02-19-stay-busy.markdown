@@ -16,16 +16,17 @@ honesty, but you gotta listen carefully to what I'm gonna say here, it's crucial
 
 Watch this video for a primer:
 
-[YouTube layoff captured in film] [youtube-getting-fired]
+[Tech layoff captured on film] [youtube-getting-fired]
 
 Some takeaways from this experience: 
 
-* the people who are firing you don't know you, don't know how many peers you've befriended, wooed, done favors for, owe you favors, how many customers you have helped, how many veeps _you think_ love you. They just have your name and a script intended to communicate to you that you don't measure up.
+* the people who are firing you don't know you, don't know how many peers you've befriended, wooed, done favors for, owe you favors. They don't know how many customers you have helped, how many veeps _you think_ love you. They just have your name on a piece of paper, along with a script intended to communicate to you that you don't measure up.
+* no matter what you say, if this happens to you, your time on the clock is near it's end.  No amount of argumentation can change that.
 * your seniority may or may not have any relevance, but being there a short time won't matter. You haven't had enugh time to learn the job and show your unique skills? Too bad.
-* you better be prepared. One week your working your JIRA tasks, the next week you hear that everybody is getting HR calls and laid off.
+* you better be prepared. One week your working your JIRA tasks, the next week you hear that everybody on your team are getting HR calls and getting laid off.
 
 I've never been laid off or fired. I've always lept from one tree to another like that old iPhone game Doodle Jump, 
-stasis for years, then sudden actrion, then stasis again. I've always managed to gain at least 20% in increases in 
+stasis for years, then sudden action, then stasis again. I've always managed to gain at least 20% in increases in 
 compensation as I have moved, which has led to my current position where, were I to be let go now, my family would
 _suffer_. I've forgotten how to live on one income. Its been a long time since I had to control my appetites to make
 ends meet. I'm being painfully honest here.
@@ -33,27 +34,29 @@ ends meet. I'm being painfully honest here.
 But that being said, *I know I will survive*. That is the First Pillar in Tech Layoffs Land. You must retain confidence 
 in your core skills, because those core skills are marketable.  If you're a COBOL programmer, _getthefuckouttahere_, OR
 get into legacy mergers and conversions. COBOL was a hot commodity 24 years ago, and you might still be able to find
-an old VAX system needing maintenance. But chances, are you have some coding skills, or you know how to do database
-normalization and sql queries, or you know JavaScript. Your skills don't suck. Don't freak out.
+an old VAX system needing maintenance. But chances are, you have some coding skills, or you know how to do database
+normalization and sql queries, or you know JavaScript. You probably know your way around one or two cloud consoles.
+Your skills don't suck. Don't freak out.
 
 But having skills is not enough. Potential employers need to be made aware of those skills somehow. So, keep that
 Resume up to date. You need to review that document every quarter, making sure new things you learned in the past
-months are in the skills section. You need to keep a list of skills and accomplishments ready for your yearly
+months are in the Skills section. You need to keep a list of skills and accomplishments ready for your yearly
 performance review anyway, so you might as well keep it in your Resume.
 
 Second Pillar: you can't afford to find work, if you're broke. So, right now, go open a new savings account in some 
 weird web bank you will promptly forget about, and setup direct deposit to put $100 a month in it. You're gonna 
-need liquid cash if the HR lady comes calling. DO not expect a beefy severance. It may not be there.
+need liquid cash if the HR lady comes calling. DO NOT expect a beefy severance. On that fateful day, the HR lady 
+may forget to mention the beefy severance, because all it amounts to is a weeks salary or less.
 
 Third Pillar: be social. You'll get that next job more easily if you make your self and your skills known to the most
 people. I always move from job to job based on recommendations from friends. Hiring on to a new industrial cold, with 
-little knowledge of the company culture is a recipe for a future layoff. Instead, hire on to a company staffed with 
+little knowledge of the company culture, is a recipe for a future layoff. Instead, hire on to a company staffed with 
 friends who are asking you to apply. When your current company is laying off, chances are there's another company
 hiring, and perhaps your friends are going there, and perhaps they will invite you in. So be nice to your coworkers
 and ensure that your skills are well known to them.   
 
 Final Pillar: have fun. One of these days, they're going to carve a rectangle in the ground, and place the remains of 
-_you_ in it. So, try to find some joy in the right now. Who knows? Maybe if you were more friendly and seemed to enjoy 
+_you_ in it. So, try to find some joy in the right-now. Who knows? Maybe if you were more friendly and seemed to enjoy 
 yourself more at your last job, they might have kept you around.
 
 [youtube-getting-fired]: https://www.reddit.com/r/videos/comments/1aunsar/girl_records_herself_getting_laidoff_cloudflare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
