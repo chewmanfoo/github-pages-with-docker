@@ -18,7 +18,9 @@ email: jason@jason-michael.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jason Michael Dot Com, my old blog, resurrected after a decade, to dazzle the world wide web.
 baseurl: "/github-pages-with-docker" # the subpath of your site, e.g. /blog
-url: "https://chewmanfoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://chewmanfoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jason-michael.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: chewmanfoo
 github_username:  chewmanfoo
 

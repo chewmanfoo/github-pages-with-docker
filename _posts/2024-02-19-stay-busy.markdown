@@ -32,12 +32,12 @@ _suffer_. I've forgotten how to live on one income. Its been a long time since I
 ends meet. I'm being painfully honest here.
 
 But that being said, *I know I will survive*. That is the First Pillar in Tech Layoffs Land. You must retain confidence 
-in your core skills, because those core skills are marketable.  If you're a COBOL programmer, _getthefuckouttahere_, OR
+in your core skills, because those core skills are marketable. If you're a COBOL programmer, _getthefuckouttahere_, OR
 get into legacy mergers and conversions. COBOL was a hot commodity 24 years ago, and you might still be able to find
 an old VAX system needing maintenance. But chances are, you have some coding skills, or you know how to do database
 normalization and sql queries, or you know JavaScript. You probably know your way around one or two cloud consoles.
 Your skills don't suck. Don't freak out.
-
+rake new_post[]
 But having skills is not enough. Potential employers need to be made aware of those skills somehow. So, keep that
 Resume up to date. You need to review that document every quarter, making sure new things you learned in the past
 months are in the Skills section. You need to keep a list of skills and accomplishments ready for your yearly
