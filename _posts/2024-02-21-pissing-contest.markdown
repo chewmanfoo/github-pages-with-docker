@@ -14,6 +14,7 @@ visible day-to-day. I'd argue, the critique of others should be similarly hidden
 <!--more-->
 
 We have to remember that everyone is somewhere on the spectrum from idiot to expert
+
 <!-- see https://github.com/Shopify/liquid/wiki/Liquid-for-Designers for stuff 
 # H1
 ## H2
