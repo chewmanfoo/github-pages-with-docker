@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "virtual home"
+title: "Virtual Home"
 date: 2019-08-11 21:46
 comments: true
 categories: personal old maker

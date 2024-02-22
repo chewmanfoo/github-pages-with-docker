@@ -9,8 +9,8 @@ exerpt_separator: <!--more-->
 
 The following two sites are at the top of my crucial reading list:
 
-*[Pro Git] [pro-git]
-*[Learn You Some Erlang] [learn-erlang]
+   * [Pro Git] [pro-git]
+   * [Learn You Some Erlang] [learn-erlang]
 
 [pro-git]: http://progit.org/book/
 [learn-erlang]: http://learnyousomeerlang.com/
