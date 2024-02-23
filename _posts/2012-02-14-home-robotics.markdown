@@ -12,11 +12,11 @@ Spend an hour or so on the internet, and it's immediately clear to anyone with h
 
 Research on the web, and you can find sites like [this][robot-parts] one, which sells 5 basic robotic parts:
 
-    * *Sensors* - for constructing _intelligent_ robots which can detect and react to their environment
-    * *Microcontrollers* - the brains of the robot
-    * *Motors* - for motion
-    * *Electronics* - motor controllers, cables, LCDs etc.
-    * *Communications and Control* - so robots can talk to each other and to a base station
+    * Sensors - for constructing _intelligent_ robots which can detect and react to their environment
+    * Microcontrollers - the brains of the robot
+    * Motors - for motion
+    * Electronics - motor controllers, cables, LCDs etc.
+    * Communications and Control - so robots can talk to each other and to a base station
 
 So, it seems robot parts are for sale on the web, so what am I on about?  What I'm really talking about is this short list:
 
