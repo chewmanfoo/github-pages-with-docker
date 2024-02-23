@@ -34,4 +34,4 @@ Imagine downloading an Android app for your robot that made it able to manipulat
 
 Basically, somebody has to come up with a standard.  Joints have to be spec'd out, along with interfaces with respect to voltage and a data standard (USB, anyone?)  Where do the bolts go?  How big around is the coupler?  Once this is done, we're off to the races!
 
-[robot-parts]: http://www.robotshop.com/robot-parts.html
+[robot-parts]: http://www.robotshop.com
