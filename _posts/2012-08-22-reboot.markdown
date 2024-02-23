@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Reboot"
+date: 2012-08-22 03:37
+comments: true
+categories: 
+exerpt_separator: <!--more-->
+---
+I'm getting ready to make a significant life change.  This involves saying good-bye to people who were a technical resource to me, so now's the time to write down all the good things they taught me. This stuff may come in handy sooner rather than later.
+<!-- more -->
+
+## Git
+
+    * [Git Best Practices][git-best]
+    * [Pro Git][pro-git]
+
+## *nix
+
+    * [TCPReplay][tcpreplay]
+    * [TMUX][tmux]
+
+## css
+
+    * [float containment][float-containment]
+
+[git-best]: http://sethrobertson.github.com/GitBestPractices
+[pro-git]: http://git-scm.com/book
+[tcpreplay]: http://tcpreplay.synfin.net/
+[tmux]: http://tmux.sourceforge.net/
+[float-contain]: http://colinaarts.com/articles/float-containment/
+
+<!-- see https://github.com/Shopify/liquid/wiki/Liquid-for-Designers for stuff 
+# H1
+## H2
+[I'm an inline-style link](https://www.google.com)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
+```javascript
+var s = 'JavaScript syntax highlighting';
+alert(s);
+```
+   * an unordered list item (note a newline is required before the list begins)
+   1. an ordered list item
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+-->
