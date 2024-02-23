@@ -15,15 +15,11 @@ exerpt_separator: <!--more-->
 
 ##  Maxim 
 
- 
-     * never sweat wet pipe - if there&#8217;s water in the line, you'll have trouble getting clean solid joints.  You've been warned.
+     * never sweat wet pipe - if there's water in the line, you'll have trouble getting clean solid joints.  You've been warned.
      * whatever you sweat in a jig outside of the area where the pipe will be installed will never leak - whatever you sweat in the bathroom or laundry room or in a hole somewhere will likely leak. So build most of the new part at a jig, then take it to the jobsite and make adjustments.
  
-
-
 ##  Tips 
 
- 
      * Build a jig.  Might as well take your time and sweat pipe in a cool area where you can be comfortable.  I nailed some 2x4's together and added some spring clamps to hold the pipe
      * Examine every joint carefully after you sweat it.  If it has melty metal in the joint (especially if it has a thin 'painted on' appearance of melty metal around the crack near the joint on all sides), it won't leak.  if it doesn't it will leak under pressure.  If you can't seee the other side of the joint, then have faith in the magic of sweating pipe.  Essentially, if you draw a line perpendicular to the horizon and up through the circumference of the pipe, and if you get melty metal on the top of both sides of that line, you're probably fine.
      * You can fix a leaking joint after it's installed with flux, melty metal and a torch, but it ain't easy
@@ -31,8 +27,6 @@ exerpt_separator: <!--more-->
      * The melty metal is important - use it liberally.  You can clean up your work with the melty metal stick after you're dome sweating the pipe (to remove any drips etc.).  Note that some melty metals are made for some conditions.  For example, a different melty metal (silver) is required for copper pipe joints under the slab.  Don't ask me why, but this is why
      * Call a plumber if you have to do something that you can't imagine how to do.
  
-
-
 ##  Tools 
 
  Keep this stuff around at all times.
