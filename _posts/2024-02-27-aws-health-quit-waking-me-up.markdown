@@ -22,6 +22,12 @@ changes thta you don't prioritize fixing the _all night long_ nuisance pages. So
 I keep threatening to fix it, but I never do. But I recently found this blog post [here][blog-post], that maybe outlines 
 how to make a reasonable AWS Health Alerting System, so I'm going to spend some time now figuring this out.
 
+### Design Ideas
+I envision a Lambda which reads a json object from an S3 bucket or a record from Dynamodb which contains configuration
+data, specifically, perhaps lists of alerts to ignore, convert to daily emails, alert on immediately etc. The Lambda 
+would be inbvoked by AWS Health and would itself send the message onto SNS etc. to deliver to the On-Call Guy. Thus
+we filter the messages AWS Health gives us into 4 quadrants.
+
 [aws-health]: https://docs.aws.amazon.com/health/latest/ug/aws-health-concepts-and-terms.html#aws-health-events
 [blog-post]: https://aws.amazon.com/blogs/mt/using-tag-based-filtering-to-manage-health-monitoring-and-alerting-at-scale/
 
