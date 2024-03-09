@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Terraform AWS Api Gateway Invoke Lambda"
+title: "Terraform AWS API Gateway Invoke Lambda"
 date: 2024-03-09 18:02
 comments: true
 categories: AWS coding Terraform
